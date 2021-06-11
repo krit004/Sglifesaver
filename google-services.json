@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704539598285",
+    "project_id": "sglifesaver-979f7",
+    "storage_bucket": "sglifesaver-979f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704539598285:android:03dba9a80cf29c42ba3884",
+        "android_client_info": {
+          "package_name": "com.example.sglifesaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704539598285-pc9e2e26pljuns0m239lvhkdrk8qt7ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZio4ho0qyi3qUSu55Mg-_38h-lbGzbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704539598285-pc9e2e26pljuns0m239lvhkdrk8qt7ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
